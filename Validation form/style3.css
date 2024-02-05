@@ -1,0 +1,45 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+ }
+ 
+ 
+ body{
+    background-color: rgb(6, 133, 133);
+}
+h1{
+    font-size:50px;
+    text-align: center;
+    margin-top: 50px;
+}
+form {
+    margin-left: 300px;
+    margin-right:300px ;
+    margin-top: 60px;
+    background-color: white;
+    font-size: 20px;
+    padding: 30px;
+}
+
+
+
+.one,.two,.three,select{
+    margin-top:10px;
+    height:30px;
+    width:550px;
+    /* margin-left: 20px; */
+}
+p{
+    font-size: 20px;
+}
+
+.submit{
+
+    align-items: center;
+    background-color: rgb(6, 133, 133);
+    color:black;
+    margin-top:10px;
+    height:30px;
+    width:550px;
+}
